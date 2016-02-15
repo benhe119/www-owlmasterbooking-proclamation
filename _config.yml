@@ -1,0 +1,28 @@
+name: www.owlmasterbooking/proclamation
+favicon: null
+layout_spectrum: 0.47707440447993577
+typography_spectrum: 0.621622531209141
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.8591251492034644
+  lightness: 0.7926904791966081
+  saturation: 0.8598593701608479
+  rhythmicContrast: 0.2239325293339789
+purpose: []
